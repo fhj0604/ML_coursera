@@ -1,1 +1,1 @@
-# Matlab implementation of Andrew Ng's coursera course
+Matlab implementation of Andrew Ng's coursera course
