@@ -1,1 +1,1 @@
-# machine learning stanford matlab 
+# Matlab implementation of Andrew Ng's coursera course
